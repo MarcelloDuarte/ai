@@ -1,0 +1,19 @@
+{
+    "name": "md/ai",
+    "require-dev": {
+        "phpspec/phpspec": "^7.5",
+        "md/phpspec-intelligence-extension": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Md\\Ai\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcello Duarte",
+            "email": "marcello.duarte@gmail.com"
+        }
+    ],
+    "require": {}
+}
